@@ -9,7 +9,7 @@ This is not just code practice — it’s my personal **roadmap to becoming an A
 ## 📅 Daily Learning Progress
 | Day | Topics Covered                                 | Notebook Link                                   |
 |-----|-----------------------------------------------|------------------------------------------------|
-| 1   | Python Basics - Variables, Conditions         | [Day 1 Notebook](Day1/Day1_Basics.ipynb)       |
+| 1   | Python Basics - Variables, Conditions         | [Day 1 Notebook](https://colab.research.google.com/github/MubasharBasharat/Python-AI-Learning-Journey/blob/main/day__1_basics.ipynb)       |
 | 2   | Loops, Lists, Basic Problems                  | [Day 2 Notebook](Day2/Day2_Conditions_Loops.ipynb) |
 | 3   | Functions, Tuples, Dictionaries (Upcoming)    | —                                              |
 
